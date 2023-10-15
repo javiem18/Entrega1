@@ -1,0 +1,121 @@
+#col1, #col2{
+    float: left;
+  }
+  
+  #div1 {
+    border: 1px solid #F4DFB6;
+    height: 30px;
+    width: 100px;
+    float: left;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F4DFB6;
+    border-radius: 5px 0 0 5px;
+  }
+  
+  #div4 {
+    border: 1px solid #F4DFB6;
+    height: 30px;
+    width: 317px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F4DFB6;
+    border-radius: 0 5px 5px 0;
+  }
+  .line1 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 100%;
+    border-left: 1px solid black;
+  }
+  .line2{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 15px;
+    border-right: 1px solid black;
+  }
+  
+  #div2 {
+    border: 1px solid #EF9595;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #EF9595;
+    position: relative;
+    border-radius: 5px 5px 0 0;
+  }
+  #div3 {
+      border: 1px solid #EF9595;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #EF9595;
+    position: relative;
+    border-radius: 0 0 5px 5px;
+  }
+  .line3{
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right:0;
+    border-bottom: 1px solid black;
+  }
+  
+  #div5 {
+    border: 1px solid #CDFAD5;
+    height: 150px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #CDFAD5;
+    border-radius: 5px;
+  }
+  
+  #div6 {
+    border: 1px solid #8EACCD;
+    height: 30px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #8EACCD;
+    border-radius: 5px;
+  }
+  
+  .margen-inferior{
+    margin-bottom: 20px;
+  }
+  
+  .margen-der{
+    margin-right: 15px;
+  }
+  
+  .margen-arriba{
+    margin-top: 20px
+  }
+  
+  .margen-izq{
+    margin-left: 100px;
+  }
+  
+  .subrayado {
+    text-decoration: underline;
+  }
+  
+  .negrita {
+    font-weight: bold;
+  }
+  .subrayador{
+    background-color: yellow;
+  }
